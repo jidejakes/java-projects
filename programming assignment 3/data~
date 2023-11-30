@@ -1,0 +1,34 @@
+C  1234  Sam  Jones  Salesperson  45000.00  +.99  7000.00 10000.00
+C  -1222  Kelly  Miller  Salesperson  48000.00  -.850  5000.00 4500.00
+C  1322  Peter Davis Salesperson  37000.00  9.00  7500.00 $8500.00
+C  1422  Brett Kelly  Salesperson  +29000.00 10.00  7000.00 6000.00
+C  1187  Homer Berns  Salesperson  32000.00 8.50  5000.00 -5500.00
+C  1765  Betty Davis  Salesperson 50000.00 9.00 6000.00  6000.00
+C  1111 *(*()*()*  John Perry   Salesperson 45000.00 10.00  7000.00 9000.00
+C  1238  Karl Arbogast Salesperson  38000.00 8.00 *7789 6000.00 7200.00
+C  1654  Moe Bundy  Salesperson  30000.00  7.00 6000.00 4000.00
+C  1333  Bart Simpson  Salesperson  40000.00 8.50  +.90 91000.00
+S  +2312  Larry Smith  Manager  54000.00
+S  2887  Montgomary  Bundy  VicePresident  88000.00
+S  2111  Marge Thomas  Secretary 24000.00
+S  2666  Ian  Andrews  Designer  33000.00
+S  2098  Elizabeth Hughes  Secretary 25000.00
+S  2543  Lester Lovejoy  TasteTester 32000.00
+S  2134  Waylan Smithers  AdvertisingExec  50000.00 &&&&&
+S  2768  Lisa  Paul  #TasteTester 27000.00
+S  2099  Marty  Grimm  Designer  32000.00
+S  +2776  Michael  George  Manager 50000.00
+H  3212  Sally  Smith  Decorator  6.50  Y 92.50
+H  3333  Hector Sanchez  Baker  9.00 Y -100.00
+H  3999  Dexter Alfonzo  Baker  7.50  N 85.00
+H  3112  Earl  Clapper  Decorator 7.50  Y 80.00
+H  3444  Lily  Millhouse  Filler 6.75 N 81.00
+H  3987  Clara Bell  Filler  8.00  Y 90.00
+H  3564  Ivey Nutella  Decorator 7.00 N 80.00
+H  3215  Robert SideShow  Baker +8.25 N 80.00
+H  -3665  Slim Pickens  Packer 7.00 N -87.00
+H  3985  Ruddy Blaire  Packer 8.00 Y #88.00
+
+
+A b #ab 1234 +1234 -1234 12.345 1.4234 12.23.1 +345.2345 -134.239
+(2asdf) *345.234 &*() abra kadabra The Date iS OctOber 22nd
